@@ -1,5 +1,9 @@
 This is an ESPHome component for controlling a lifting desk of an unknown model.
 ======
+Upd: It was noticed that a very similar model has been marketed as KLIFT SBASE by a French company KQueo (Only in France?)
+[KLIFT SBASE Manual](pic/klift_sbase.pdf)
+
+Thanks @ryan-feeley 
 
 Story
 ======
