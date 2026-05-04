@@ -113,7 +113,7 @@ binary_sensor:
     name: GPIO button up
     internal: true
     pin:
-      number: D2
+      number: GPIO2
       mode:
         input: true
         pullup: true
@@ -134,7 +134,7 @@ binary_sensor:
     name: GPIO button down
     internal: true
     pin:
-      number: D3
+      number: GPIO4
       mode:
         input: true
         pullup: true
